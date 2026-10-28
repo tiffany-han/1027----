@@ -1,0 +1,7 @@
+pandas>=2.0
+numpy>=1.24
+matplotlib>=3.7
+scipy>=1.10
+jupyterlab>=4.0
+python-pptx>=0.6.21  # 選用：Notebook 05 產生簡報
+pytest>=7.0          # 選用：執行 tests/
